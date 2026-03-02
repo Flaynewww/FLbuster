@@ -51,3 +51,7 @@ FLbuster Это Программа - Форк Zapret
    4. Проверьте работу
 
    🎉 ГОТОВО! Теперь все работает!
+
+Copyright (c) 2016-2026 bol-van
+Copyright (c) 2024-2026 Flowseal
+Copyright (c) 2025-2026 Flaynewww
